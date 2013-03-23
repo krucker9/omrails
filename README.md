@@ -1,4 +1,6 @@
 # One Month Rails
 
 This is the sample application for 
-[*One Month Rails: Teach Yourself to Code] [OneMonth Rails.com]
+[*One Month Rails: Teach Yourself to Code] (OneMonthRails.com)
+
+
